@@ -4,6 +4,8 @@
 - [東京三協信用金庫](http://www.shinkin.co.jp/sankyo/)
 - [日本商工会議所](https://www.jcci.or.jp/)
 - [国民金融公庫・事業継承支援](https://www.jfc.go.jp/n/finance/jigyosyokei/)
+- [NIST](https://csrc.nist.gov/projects/cloud-computing)
+  - [Google翻訳](https://github.com/y2jp/nistCloud)
 - [Github y2jp](https://github.com/y2jp)
 - [Github tmstmp](https://github.com/tmstmp)
 - [google](https://google.com)
