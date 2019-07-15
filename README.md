@@ -14,3 +14,4 @@
 - [Let's Encrypt 総合ポータル](https://letsencrypt.jp)
 - [時計](http://www.nict.go.jp/)
 
+[トップページに戻る](http://y2jp.com)
