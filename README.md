@@ -5,6 +5,7 @@
 - [ミラサポ](https://www.mirasapo.jp)
 - [TOKYO創業ステーション](http://www.tokyo-kosha.or.jp/station/services/sogyokassei)
 - [中小企業庁](https://www.chusho.meti.go.jp)
+  - [中小企業共通EDI標準 Ver.2](https://www.itc.or.jp/datarenkei/edi_ver2.html)
 - [日本商工会議所](https://www.jcci.or.jp)
 - [日本政策金融公庫・事業継承支援](https://www.jfc.go.jp/n/finance/jigyosyokei)
 - [NIST](https://csrc.nist.gov/projects/cloud-computing)
